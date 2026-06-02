@@ -1,61 +1,62 @@
-<h1 align="center">
-  Olá, eu sou o Almiro 👋
-</h1>
+### Olá, eu sou o Almiro! 👋
 
-<p align="center">
-  🌱 Estudante de desenvolvimento Full Stack apaixonado por construir soluções web.
-</p>
+Sou um **Desenvolvedor Front-End** apaixonado por transformar ideias em interfaces bonitas e funcionais. Atualmente cursando **Engenharia de Software** na **Unopar** e me especializando no **Full Stack DevClub**, onde estou aprofundando meus conhecimentos em React, Node.js e TypeScript.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&width=435&lines=Full+Stack+em+construção+🚀;Apaixonado+por+código+💻;Sempre+aprendendo+algo+novo+🌱" alt="Typing SVG" />
-</p>
+Gosto de construir projetos do zero, aprender na prática e evoluir a cada linha de código.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias que uso no dia a dia
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
+<img align="left" alt="HTML5" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="VSCode" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="GitHub" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Almirodesouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almirodesouza&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Almirodesouza&theme=tokyonight"/>
-</p>
+<br clear="left"/>
 
 ---
 
-## 📫 Onde me encontrar
+### 📚 Estou aprendendo atualmente ...
 
-<p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:SEU-EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img align="left" alt="React" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Node.js" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
+<br clear="left"/>
 
-  
-    
-  
-  
-    
-  
+---
 
+### 📊 Minhas estatísticas no GitHub
 
+<a href="https://github.com/Almirodesouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almirodesouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almirodesouza&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
+---
+
+### 🔥 Sequência de contribuições
+
+<a href="https://github.com/Almirodesouza">
+  <img src="https://streak-stats.demolab.com?user=Almirodesouza&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+</a>
+
+---
+
+### 📈 Atividade recente
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Almirodesouza&theme=tokyo-night&hide_border=true)](https://github.com/Almirodesouza)
+
+---
+
+### 📬 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almirodesouza/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Almirodesouza)
+
+---
+
+> *"Qualquer um pode escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam."* — Martin Fowler
