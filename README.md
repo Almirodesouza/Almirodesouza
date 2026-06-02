@@ -31,10 +31,8 @@ Gosto de construir projetos do zero, aprender na prática e evoluir a cada linha
 
 ### 📊 Minhas estatísticas no GitHub
 
-<a href="https://github.com/Almirodesouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almirodesouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almirodesouza&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
+![Almiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Almirodesouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almirodesouza&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -60,3 +58,4 @@ Gosto de construir projetos do zero, aprender na prática e evoluir a cada linha
 ---
 
 > *"Qualquer um pode escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam."* — Martin Fowler
+
