@@ -38,14 +38,6 @@ Gosto de construir projetos do zero, aprender na prática e evoluir a cada linha
 
 ---
 
-### 🔥 Sequência de contribuições
-
-<a href="https://github.com/Almirodesouza">
-  <img src="https://streak-stats.demolab.com?user=Almirodesouza&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-</a>
-
----
-
 ### 📈 Atividade recente
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Almirodesouza&theme=tokyo-night&hide_border=true)](https://github.com/Almirodesouza)
