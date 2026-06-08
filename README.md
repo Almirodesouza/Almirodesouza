@@ -1,4 +1,10 @@
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════╗
+║         ~/Almirodesouza/README.md  [main]            ║
+╚══════════════════════════════════════════════════════╝
+```
 
 # ALMIRO DE SOUZA
 
@@ -39,9 +45,9 @@ Em transição de carreira para **desenvolvimento web**. Construo interfaces fun
 
 <div align="center">
 
-![Almiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Almirodesouza&show_icons=true&theme=tokyonight&hide_border=true&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=false)
+![Almiro's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Almirodesouza&show_icons=true&theme=tokyonight&hide_border=true&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almirodesouza&layout=donut&theme=tokyonight&hide_border=true&title_color=388bfd&text_color=c9d1d9&bg_color=0d1117&langs_count=6)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Almirodesouza&layout=donut&theme=tokyonight&hide_border=true&title_color=388bfd&text_color=c9d1d9&bg_color=0d1117&langs_count=6)
 
 </div>
 
@@ -87,4 +93,3 @@ Em transição de carreira para **desenvolvimento web**. Construo interfaces fun
 ***Bons programadores escrevem código que humanos entendam.*** *— Martin Fowler"*
 
 </div>
-
